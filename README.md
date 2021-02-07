@@ -1,2 +1,2 @@
-# MMathManage
-My second monkey math site
+# MathManage
+My monkey site
