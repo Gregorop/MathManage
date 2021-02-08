@@ -1,11 +1,13 @@
 main {
-	background-color: #66A1D2
+	background-color: #66A1D2;
+	font-family: 'PT Sans';
 }
 
 header {
-	background-color: #0B5FA5	
+	background-color: #0B5FA5;
+	font-size: 64;
 }
 
 footer{
-	background-color: #25547B	
+	background-color: #0A67A3;
 }
