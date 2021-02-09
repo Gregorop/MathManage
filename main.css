@@ -29,14 +29,17 @@ main ul li ul{
 	padding-left:80%;
 }
 
+main ul li ul li{
+	text-align:right;
+	padding-right:25%;
+}
+
 main td p{
 	font-family: 'PT Sans';
 	text-align:left;
 	font-size:32;
 }
-.tg{
-	text-align:right;
-}
+
 .describe_source{
 	font-size:24;
 }
