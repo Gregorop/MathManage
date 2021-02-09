@@ -43,6 +43,10 @@ main td p{
 	font-size:32;
 }
 
+.tg{
+	width: 100px;
+	height:100px;
+}
 .describe_source{
 	font-size:24;
 }
