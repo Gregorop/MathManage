@@ -40,15 +40,47 @@ main ul li ul li{
 main td p{
 	font-family: 'PT Sans';
 	text-align:left;
-	font-size:32;
+	font-size:28;
+}
+
+main table{
+	width:100%;
+	padding-right:7%;
+}
+
+.menu_button{
+	width:inherit;
+	background-color:white;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	position: absolute;
+}
+.source_name{
+	width:450px;
 }
 
 .tg{
 	width: 100px;
 	height:100px;
 }
+
+.USSR{
+	background-color:#FFB6C1;
+}
+
+.Tor{
+	background-color:#F5DEB3;
+}
+.xyu{
+	background-color:#90EE90;
+}
+
+
 .describe_source{
 	font-size:24;
+	padding-right:1%;
 }
 .aboutme{
 	padding-bottom:0;
@@ -62,7 +94,24 @@ main td p{
 	padding-right:7%;
 	text-align: right;
 }
+.inspire{
+	
+	width:100%;
+	margin-right:1%;
+}
 
+.inspire_pic_td{
+	width:600px;
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.inspire_pic{
+	text-align:left;
+	width:600px;
+	height:400px;
+}
 header {
 	background-color: #BAE2F7;
 	font-size: 64;
@@ -74,6 +123,7 @@ header table {
 	font-size: 48;
 	text-align:center;
 	border-collapse:collapse;
+	table-layout: fixed; 
 }
 
 header p{
@@ -96,6 +146,12 @@ header table td {
 	background-color: #53B4E6;
 	border-left: 1px solid black;
 	border-right: 1px solid black;
+	padding:0;
+	left:0;
+	right:0;
+	top:0;
+	bottom:0;
+	position: relative;
 }
 
 footer{
